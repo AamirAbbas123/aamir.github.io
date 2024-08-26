@@ -1,2 +1,2 @@
 # Dr Aamir Abbas
-This is my personal page where I post my data analytics projects 
+I want to check if the updates are being made or not 
